@@ -4,7 +4,7 @@ build:
 loans:
   message: "Hey, hello greeting welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "ravi - Product Owner"
+    name: "ravi - CEO and manager"
     email: "ravi@eazybank.com"
   onCallSupport:
     - (723) 656-8709
