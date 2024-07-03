@@ -4,7 +4,7 @@ build:
 cards:
   message: "Hey, welcome to java practice cards related prod APIs"
   contactDetails:
-    name: "Ravi - CEO of this"
+    name: "Ravi - CEO and manager of this"
     email: "ravi@gmail.com"
   onCallSupport:
     - (617) 432-2356
