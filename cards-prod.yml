@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to java practice cards related prod APIs"
+  message: "Hey, welcome to java practice cards related docker prod APIs"
   contactDetails:
     name: "Ravi - CEO and manager of this"
     email: "ravi@gmail.com"
